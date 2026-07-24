@@ -96,4 +96,4 @@ Where processing is based on consent, you provide that consent by affirmatively 
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at haruto@mura.lu.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at haruto@mura.lu. 
